@@ -1,0 +1,3 @@
+Belajar Python
+Mengenal File I/O
+Mempelajari Error Handling
